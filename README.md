@@ -1,4 +1,4 @@
-# base69 - ChatGPT Content Filter Bypass
+# pyman - ChatGPT Content Filter Bypass
 
 ## Overview
 
