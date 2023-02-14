@@ -81,6 +81,6 @@ Sometimes you have to tweak the prompt to be able to get your desired ouput. Her
 ![Capital Punishment for Stealing](https://i.ibb.co/82Gn54w/sc-20.png)
 
 
-![Removing Gays](https://i.ibb.co/fdK8875/sc-19.png)
+
 
 
